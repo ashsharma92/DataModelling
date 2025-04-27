@@ -66,7 +66,10 @@ A positive consequence of this data model was the ability to make some basic vis
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/da5a33ff-b0ad-4192-bfdf-56fade4737d7" />
 
-I was able to create an overall results page to show results of students and use slicers to filter on student name or tutor name or department. This can give insights on student performance. 
+I was able to create an overall results page to show results of students and use slicers to filter on student name or tutor name or department. This can give insights on student performance but also can be used to look at tutor's results or departmental results. 
+
+Rough Insights gained:
+
 
 
 
